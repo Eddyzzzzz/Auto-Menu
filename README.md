@@ -6,7 +6,7 @@ I used Crontab to accomplish automation, which is not included in the code.
 Data Source: https://menus.tufts.edu/FoodPro%203.1.NET/shortmenu.aspx?sName=TUFTS+DINING&locationNum=11&locationName=Dewick-MacPhie+Dining+Center&naFlag=1
 
 Example: 
-<img src="https://user-images.githubusercontent.com/90101497/211171238-9a6a293a-f61d-4663-b853-1ccab7d95304.jpeg" width="100">
+<img src="https://user-images.githubusercontent.com/90101497/211171238-9a6a293a-f61d-4663-b853-1ccab7d95304.jpeg" width="200">
 
 Let me know your number, and I am happy to add you to the list :)
 
