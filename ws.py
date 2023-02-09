@@ -124,6 +124,14 @@ for i in range(len(brunchc)):
         while (brunchc[i][0] != "-"):
             newbrunchc.append(brunchc[i])
             i += 1
+            
+for i in range(len(brunchc)):
+    if brunchc[i] == "-- LATE LUNCH --":
+        newbrunchc.append(brunchc[i])
+        i += 1
+        while (brunchc[i][0] != "-"):
+            newbrunchc.append(brunchc[i])
+            i += 1
 
 for i in range(len(brunchc)):
     if brunchc[i] == "-- BAKED FRESH DESSERTS --":
