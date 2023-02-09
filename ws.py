@@ -163,7 +163,7 @@ else:
         f.write("\nDINNER:\n")
         for dish in newdinnerd:
             f.write(f"{dish}\n")
-        f.write("Bon Appétit!")
+        f.write("\nBon Appétit!")
 
 #If open carm
 if len(brunchc) <= 1:
