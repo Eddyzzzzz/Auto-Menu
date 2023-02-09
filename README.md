@@ -2,6 +2,8 @@
 
 A program that automatically fetch data(the daily menu) from Tufts Dining Hall website and send it to any number as a message. Can be executed at any time with any frequency. You can also choose to get information from different dining halls based on your need.
 
+This is not open source because of business reasons.
+
 Number of users right now: 16
 
 Currently set to send the data every morning at 7:00 a.m.
