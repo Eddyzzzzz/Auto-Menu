@@ -1,6 +1,6 @@
 # Auto-Menu
 
-A program that automatically fetches data(the daily menu) from the Tufts Dining Hall website and sends it to any number as a message. Can be executed at any time with any frequency. You can also choose to get information from different dining halls based on your need.
+A program that automatically fetches and organize the daily menu from Tufts Dining Hall website and sends it through message
 
 Data Source: 
 https://menus.tufts.edu/FoodPro%203.1.NET/shortmenu.aspx?sName=TUFTS+DINING&locationNum=11&locationName=Dewick-MacPhie+Dining+Center&naFlag=1
