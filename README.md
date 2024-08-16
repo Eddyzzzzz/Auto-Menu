@@ -8,4 +8,5 @@ https://menus.tufts.edu/FoodPro%203.1.NET/shortmenu.aspx?sName=TUFTS+DINING&loca
 
 Demo: 
 https://www.youtube.com/watch?v=1jhhVVCq_34 
+
 <img src="https://user-images.githubusercontent.com/90101497/217742789-42c601e0-14d0-4e91-8943-464ac443a8a5.png" width="200">
