@@ -1,6 +1,6 @@
 # Auto-Menu
 
-A program that automatically fetches and organize the daily menu from Tufts Dining Hall website and sends it through message
+I developed a Python script to tackle the hassle of sifting through long, repetitive dining hall menus by automatically scraping and filtering only the daily-updated items using Selenium and BeautifulSoup. The program condenses over 200 items into just the relevant main courses and desserts, saving users time and effort, especially in areas with slow internet. Each morning, it sends the filtered menus via text message to over 20 users, offering a convenient solution for quick menu browsing. Relevent skills include web scraping, data processing, and automation.
 
 Data Source: 
 https://menus.tufts.edu/FoodPro%203.1.NET/shortmenu.aspx?sName=TUFTS+DINING&locationNum=11&locationName=Dewick-MacPhie+Dining+Center&naFlag=1
