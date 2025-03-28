@@ -1,12 +1,23 @@
-# Auto-Menu
+# 🍽️ Auto-Menu: Smart Dining Hall Menu Scraper  
 
-I developed a Python script to tackle the hassle of sifting through long, repetitive dining hall menus by automatically scraping and filtering only the daily-updated items using Selenium and BeautifulSoup. The program condenses over 200 items into just the relevant main courses and desserts, saving users time and effort, especially in areas with slow internet. Each morning, it sends the filtered menus via text message to over 20 users, offering a convenient solution for quick menu browsing. Relevent skills include web scraping, data processing, and automation.
+**Auto-Menu** is a Python script that automates the process of filtering **long, repetitive dining hall menus** by scraping and extracting only the **daily-updated main courses and desserts**. It simplifies menu browsing for users, especially in areas with slow internet, by condensing **200+ items** into only the most relevant options. Each morning, it **automatically sends filtered menus via text message** to over 20 users, saving time and effort.  
 
-Data Source: 
-https://menus.tufts.edu/FoodPro%203.1.NET/shortmenu.aspx?sName=TUFTS+DINING&locationNum=11&locationName=Dewick-MacPhie+Dining+Center&naFlag=1
-https://menus.tufts.edu/FoodPro%203.1.NET/shortmenu.aspx?sName=TUFTS+DINING&locationNum=09&locationName=Carmichael+Dining+Center&naFlag=1&WeeksMenus=This+Week%27s+Menus&myaction=read&dtdate=2%2f19%2f2023
+🔗 **Project Documentation:** [Dining Hall Menu Reminder](https://narrow-theory-18d.notion.site/Dining-Hall-Menu-Reminder-1b9436c3d41a81a2ba6bd60e1ed76cd5)  
 
-Demo: 
-https://www.youtube.com/watch?v=1jhhVVCq_34 
+## 🔧 Key Features  
+- **Web Scraping** – Uses **Selenium** and **BeautifulSoup** to extract dining hall menus.  
+- **Data Filtering** – Condenses over 200 items into relevant main courses and desserts.  
+- **Automation** – Sends filtered menu updates via **SMS** every morning to over 20 users.  
+- **Optimized for Slow Internet** – Reduces data load for quick and easy menu browsing.  
 
-<img src="https://user-images.githubusercontent.com/90101497/217742789-42c601e0-14d0-4e91-8943-464ac443a8a5.png" width="200">
+## 🌐 Data Source  
+Menus are scraped from:  
+- [Dewick-MacPhie Dining Center](https://menus.tufts.edu/FoodPro%203.1.NET/shortmenu.aspx?sName=TUFTS+DINING&locationNum=11&locationName=Dewick-MacPhie+Dining+Center&naFlag=1)  
+- [Carmichael Dining Center](https://menus.tufts.edu/FoodPro%203.1.NET/shortmenu.aspx?sName=TUFTS+DINING&locationNum=09&locationName=Carmichael+Dining+Center&naFlag=1&WeeksMenus=This+Week%27s+Menus&myaction=read&dtdate=2%2f19%2f2023)  
+
+## 🚀 How It Works  
+1. **Scrapes Menus** – Extracts menu data from the provided dining hall websites.  
+2. **Filters New Items** – Condenses menus to show only main courses and desserts that have been updated for the day.  
+3. **Sends SMS Updates** – Sends the filtered menus to over 20 users each morning.  
+
+📌 *For more details and usage instructions, check the project documentation linked above.*  
